@@ -13,3 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
+
+### Add Rules
+
+Be sure to check the [Twitter API docs](https://developer.twitter.com/en/docs/twitter-api/tweets/filtered-stream/integrate/build-a-rule) for how to build rules to filter the stream.
